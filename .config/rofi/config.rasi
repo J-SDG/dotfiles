@@ -1,0 +1,6 @@
+configuration {
+	theme: "~/.cache/wal/colors-rofi-dark";
+	width: 15;
+	lines: 4;
+	font: "FuraMono Nerd Font 14";
+}
